@@ -1,6 +1,5 @@
-<h1>Archero-lite</h1>
+<h1>Mage Hero</h1>
 This is a simple 2D side scroller game with not much direction yet.
-Currently called archero-lite due to the app being the inspiration for making a game
 
 <h2>Goals</h2>
 <ul>
