@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fridge', 'Brose', sans-serif;
+    font-weight: 100;
+}
+
+#canvas1 {
+    border: 5px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #6D543B;
+
+    /* this makes it so the browser size wont limit the game */
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Hide images because we draw them in javascript */
+.hidden {
+    display: none;
+}
